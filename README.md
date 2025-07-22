@@ -4,6 +4,8 @@ Kebab Tycoon, an offline game in Atari 2600 graphic style
 
 The goal of this experiment is to test the power of the Google AI Studio by having it create a game from a single prompt. It uses gemini 2.5 pro and, the game, was created on 22/07/2025. The prompt used is in Italian and was made with ChatGpt on the same day, but I will upload it to you in both Italian and English.
 
+If u want test the game online u can click [here](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221-s-FisG9GaA-7e3ndqQVnI4GVfvum3ct%22%5D,%22action%22:%22open%22,%22userId%22:%22108265138987507583446%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing) (:
+
 ## Prompt translated into English using DeepL:
 
 **Game title:** Kebab Tycoon
