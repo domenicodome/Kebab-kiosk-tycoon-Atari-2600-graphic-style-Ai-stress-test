@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kebab Kiosk Tycoon</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+        body {
+            margin: 0;
+            font-family: 'VT323', monospace;
+        }
+        .text-shadow-cyan {
+            text-shadow: 0 0 3px #0ff, 0 0 5px #0ff;
+        }
+        .text-shadow-magenta {
+            text-shadow: 0 0 3px #f0f, 0 0 5px #f0f;
+        }
+        .pixelated-border {
+            border: 2px solid #00FFFF;
+            box-shadow: 0 0 5px #00FFFF, inset 0 0 5px #00FFFF;
+        }
+    </style>
+<script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.1.0/",
+    "react": "https://esm.sh/react@^19.1.0",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.0/",
+    "recharts": "https://esm.sh/recharts@^3.1.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+<body>
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+</body>
+</html>
