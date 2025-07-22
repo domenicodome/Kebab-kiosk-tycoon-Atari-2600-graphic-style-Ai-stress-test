@@ -1,0 +1,126 @@
+Titolo del gioco: Kebab Tycoon
+Piattaforma: Offline, stile grafico Atari 2600
+
+Panoramica generale
+
+Kebab Tycoon è un gestionale/tycoon retrò con grafica e audio ispirati all'Atari 2600. Il giocatore gestisce un chiosco di kebab con l'obiettivo di crescere fino a costruire un impero alimentare, servendo clienti, migliorando attrezzature, gestendo risorse e affrontando eventi speciali. Tutto il gameplay si svolge offline.
+
+Caratteristiche tecniche
+
+Grafica: pixel art limitata (160x192 pixel), sprite a blocchi, massimo 4 colori a schermo.
+
+Audio: effetti sonori monofonici (beep, boop), brevi jingle per eventi chiave.
+
+Interfaccia: controlli semplici, schermi a scorrimento verticale e interazioni a menu.
+
+Meccaniche principali
+
+Gestione del chiosco
+
+Scorte: carne, pane, verdure, salse. Indicatore a barre per disponibilità.
+
+Preparazione: sequenza di tasti per comporre un kebab perfetto (Carne → Pane → Verdure → Salsa).
+
+Clienti: fila dinamica, ognuno ha preferenze; barra di soddisfazione visibile.
+
+Prezzi e profitti: scegli il prezzo di vendita, bilancia costi e rifornimenti.
+
+Potenziamenti e macchinari
+
+Affettatrice automatica: velocizza il taglio della carne.
+
+Tosta-pane industriale: permette tostature multiple.
+
+Miscela-salse meccanica: automatizza la preparazione delle salse.
+
+Sistema di stoccaggio a freddo: riduce sprechi e costi di ingredienti.
+
+CryptoGrill X: cuoce kebab in metà tempo, +15% soddisfazione cliente (acquisto in KBC).
+
+NanoWrap3000: avvolge automaticamente, +10% velocità servizio (acquisto in KBC).
+
+PixelPresser Pro: comprime ingredienti per kebab compatti, riduce sprechi del 20% (acquisto in KBC).
+
+Arredo del chiosco: migliora l'estetica e attira clienti con più disponibilità economica.
+
+Livello 1: banco in legno grezzo, nessun bonus.
+
+Livello 2: insegna semplice, sgabelli pixelati, +5% guadagno medio.
+
+Livello 3: insegna luminosa, tavolini, +10% guadagno medio.
+
+Livello 4: luci animate, decorazioni visive (piante, tende), +15% e +1 reputazione.
+
+Livello 5: tema personalizzato, oggetti dinamici (pixel-fuochi, mascotte), +25% guadagno e +2 reputazione.
+
+Economia e simulazione
+
+Fluttuazione prezzi: stagionalità e condizioni influiscono sui costi.
+
+Prestiti: meccanica di rischio-ricompensa con tasso d'interesse.
+
+Investitori: vendi quote in cambio di capitale immediato.
+
+Minigioco di Borsa: accedi a un terminale in pixel dove puoi investire in altre catene fittizie:
+
+"FalafelCorp": cresce nei mesi freddi.
+
+"WrapzOne": stabile ma poco redditizia.
+
+"HotGrill International": molto volatile.
+
+Criptovalute e Crypto MiniGioco:
+
+KebabCoin (KBC): valuta per oggetti e macchinari speciali.
+
+Minigioco Mining: in stile arcade con livelli di difficoltà crescente:
+
+Sequenze di tasti sempre più rapide da eseguire.
+
+Timer decrescente con moltiplicatore KBC.
+
+Possibilità di aggiornare la "GPU retro" per aumentare la potenza di mining.
+
+Ogni GPU ha effetti grafici unici (es. esplosione di pixel colorati).
+
+Fidelizzazione del giocatore
+
+Sfide settimanali: cambia ogni lunedì con leaderboard locale.
+
+Obiettivi segreti: sbloccabili solo con condizioni speciali (es. servire 5 clienti VIP di fila).
+
+Sistema di reputazione: aumenta con le buone recensioni dei clienti e sblocca contenuti premium.
+
+Clienti affezionati: NPC che tornano spesso e raccontano la loro storia.
+
+Sistema eventi random: visite di food blogger, problemi di approvvigionamento, scioperi.
+
+Diario dello chef: aggiorna automaticamente con momenti chiave e memorie delle partite precedenti.
+
+Difficoltà realistiche gestionali
+
+Controllo igienico: se il chiosco resta sporco, la reputazione cala.
+
+Ingredienti scaduti: se non si controllano le scorte, si rischia di servire cibo avariato.
+
+Orari di punta: ondate di clienti mettono sotto pressione il giocatore.
+
+Problemi meccanici: le macchine si possono rompere, va pianificata la manutenzione.
+
+Dipendenti (sbloccabili): possono aiutare ma hanno costo, stanchezza, bisogno di formazione.
+
+Inflazione e tasse: variazioni nei costi e tasse settimanali da pagare.
+
+Obiettivi del giocatore
+
+Gestire efficacemente il chiosco: soddisfare clienti e mantenere alta la reputazione.
+
+Espandere l'impero: sbloccare nuovi chioschi e attrezzature.
+
+Scoprire ricette leggendarie: combinazioni segrete e ingredienti rari.
+
+Dominare l'economia: massimizzare i profitti e superare ogni sfida.
+
+Sbloccare tutto: skin, avatar, badge, eventi, minigiochi.
+
+Kebab Tycoon è un'esperienza retrò profonda e coinvolgente che unisce l'accessibilità dei classici arcade con la profondità strategica dei moderni gestionali, pensato per tenere il giocatore incollato senza connessione, ma con tanta voglia di tornare.
